@@ -1,0 +1,24 @@
+{
+  "name": "inm320-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciplaysaisauyt-commits/inm320_Dinmukhammed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luciplaysaisauyt-commits/inm320_Dinmukhammed/issues"
+  },
+  "homepage": "https://github.com/luciplaysaisauyt-commits/inm320_Dinmukhammed#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
